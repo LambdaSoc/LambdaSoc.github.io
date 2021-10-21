@@ -8,6 +8,6 @@
 
 [AI、区块链、商业航天的未来十年](https://www.sgpjbg.com/baogao/40743.html)
 
-[back](./newsletter.html)
+[back](../newsletter.html)
 
 updated by Shuyuan Zhang

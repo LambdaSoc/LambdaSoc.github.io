@@ -19,6 +19,8 @@
  - [第二届阿里巴巴前端练习生计划](https://mp.weixin.qq.com/s/3FJgAjNpJ7yzQzylNhTFcQ)
 > Source: Jupiter
 
+[back](../newsletter.html)
+
 ***
 
 > updated by Ray
